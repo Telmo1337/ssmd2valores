@@ -1,0 +1,16 @@
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbar-expand-lg {
+    padding-left: 10rem;
+}
+
+.d-flex {
+    padding-left: 60rem;
+}
+
+
+
